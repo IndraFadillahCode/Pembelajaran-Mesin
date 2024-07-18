@@ -4,12 +4,11 @@
 
 # Judul Proyek: Proyek Prediksi Cuaca
 
-## Ikhtisar Proyek
+
 
 ### Identitas
-- **Penulis:** [Nama Anda]
-- **Tanggal:** [Tanggal Proyek]
-- **Repositori:** [Link Repositori GitHub]
+- **Penulis:** [Indra Fadillah]
+- **Tanggal:** [18-07-2024]
 
 ### Ringkasan
 Tujuan dari proyek ini adalah untuk memprediksi kondisi cuaca menggunakan model pembelajaran mesin. Proyek ini melibatkan prapemrosesan data, analisis data eksploratif (EDA), rekayasa fitur, pelatihan model, dan evaluasi.
@@ -18,20 +17,17 @@ Tujuan dari proyek ini adalah untuk memprediksi kondisi cuaca menggunakan model 
 Prediksi cuaca sangat penting untuk perencanaan di berbagai sektor, termasuk pertanian, transportasi, dan manajemen bencana. Prediksi cuaca yang akurat dapat membantu mengurangi dampak buruk dan mengoptimalkan operasi.
 
 ### Model Penyelesaian / Alur Kerja
-![Diagram Alur](link-ke-diagram)  
-*Catatan: Ganti tautan di atas dengan jalur sebenarnya ke gambar diagram alur Anda.*
-
 1. **Pengumpulan Data:** Mengumpulkan data cuaca dari sumber yang dapat dipercaya.
 2. **Prapemrosesan Data:** Membersihkan dan mentransformasikan data.
 3. **Analisis Data Eksploratif (EDA):** Memahami data melalui visualisasi dan statistik.
 4. **Rekayasa Fitur:** Membuat fitur yang relevan untuk model.
 5. **Pelatihan Model:** Melatih model pembelajaran mesin.
 6. **Evaluasi Model:** Menilai kinerja model.
-7. **Penerapan:** Menerapkan model dengan kinerja terbaik (jika berlaku).
 
 ## Dataset
 ### Deskripsi
 Dataset yang digunakan dalam proyek ini berisi data cuaca historis. Setiap baris mewakili kondisi cuaca yang dicatat pada waktu tertentu.
+Link : https://www.kaggle.com/datasets/ananthr1/weather-prediction
 
 ### Fitur
 - **Tanggal:** Tanggal pencatatan data.
@@ -42,7 +38,6 @@ Dataset yang digunakan dalam proyek ini berisi data cuaca historis. Setiap baris
 - **Kondisi:** Kondisi cuaca (misalnya, cerah, hujan).
 
 ## Analisis Data Eksploratif (EDA)
-### Ikhtisar
 Proses EDA melibatkan pemeriksaan dataset untuk menemukan pola, anomali, dan hubungan antar fitur. Wawasan utama dari EDA akan memandu proses rekayasa fitur dan pemilihan model.
 
 ### Visualisasi
@@ -65,15 +60,6 @@ Proses EDA melibatkan pemeriksaan dataset untuk menemukan pola, anomali, dan hub
 - **Decision Tree**
 - **Random Forest**
 - **Gradient Boosting**
-
-### Metode Evaluasi
-- **Mean Absolute Error (MAE)**
-- **Mean Squared Error (MSE)**
-- **Root Mean Squared Error (RMSE)**
-- **R-squared (R²)**
-
-### Hasil
-Model Random Forest mencapai kinerja terbaik dengan RMSE sebesar [nilai] dan R² sebesar [nilai].
 
 ## Diskusi
 ### Temuan
