@@ -7,8 +7,9 @@
 
 
 ### Identitas
-- **Penulis:** [Indra Fadillah]
-- **Tanggal:** [18-07-2024]
+- **Penulis:** **Indra Fadillah**
+- **Nim:** **A11.2022.14186**
+- **Tanggal:** **18-07-2024**
 
 ### Ringkasan
 Tujuan dari proyek ini adalah untuk memprediksi kondisi cuaca menggunakan model pembelajaran mesin. Proyek ini melibatkan prapemrosesan data, analisis data eksploratif (EDA), rekayasa fitur, pelatihan model, dan evaluasi.
@@ -73,7 +74,3 @@ Proses EDA melibatkan pemeriksaan dataset untuk menemukan pola, anomali, dan hub
 
 ## Kesimpulan
 Proyek ini menunjukkan proses membangun model prediksi cuaca menggunakan pembelajaran mesin. Hasil menunjukkan bahwa model ensemble seperti Random Forest dapat memberikan prediksi yang akurat. Pekerjaan di masa depan bisa melibatkan penerapan model dan integrasi data real-time untuk peningkatan berkelanjutan.
-
----
-
-Silakan sesuaikan konten dan struktur sesuai kebutuhan Anda, dan isi detail spesifik dari proyek Anda. Jika Anda memerlukan bantuan lebih lanjut atau memiliki pertanyaan tambahan, beri tahu saya!
